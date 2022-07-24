@@ -1,2 +1,2 @@
 print("welcome to git")
-print("krithik")
+print("krithik.git")
